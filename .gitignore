@@ -1,0 +1,58 @@
+# --- Python ---
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# --- Environnements Virtuels ---
+# Il ne faut JAMAIS envoyer votre environnement virtuel sur GitHub
+venv/
+.venv/
+env/
+ENV/
+bin/
+lib/
+include/
+
+# --- Variables d'environnement (Sécurité) ---
+# Pour stocker vos clés API ou mots de passe localement
+.env
+.flaskenv
+
+# --- IDE (Editeurs de code) ---
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# --- Tests & Couverture ---
+htmlcov/
+.tox/
+.nox/
+.coverage
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+.pytest_cache/
+
+# --- OS ---
+.DS_Store
+Thumbs.db
