@@ -12,7 +12,7 @@ A pure TF-IDF implementation for PDF document retrieval — built from scratch w
 
 1. Clone the repo:
 ```bash
-git clone /path/to/ALETHEIA.git
+git clone https://github.com/IavoAmbinintsoa/ALETHEIA.git
 cd ALETHEIA
 ```
 
