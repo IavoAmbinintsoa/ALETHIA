@@ -30,6 +30,8 @@ bin/
 lib/
 include/
 
+PDF
+
 # --- Variables d'environnement (Sécurité) ---
 # Pour stocker vos clés API ou mots de passe localement
 .env
